@@ -32,12 +32,4 @@ cat "$output_file"
 read -p "Appuyez sur Entrée pour commencer..."
 
 echo "Question 3"
-echo "Les tableaux en Bash j'ai jamais vu ca de toute ma fucking vie"
-
-#ce qui suit sont des tests de compréhension, ne pas tenir compte si j'ai pas le temps de modifier mon code avant de push lol
-Tableau=("Linux" "Windows" "MacOS")
-echo "${Tableau[1]}"
-Tableau+=([6]="Android")
-Tableau[1]="iOS"
-echo "${Tableau[0]}"
-echo "${Tableau[1]}"
+echo "J'ai pas reussi :/"
