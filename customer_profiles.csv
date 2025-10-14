@@ -10,7 +10,7 @@ customer_id,name,email,age,city,subscription_type
 157,Norman White,norman.white@example.com,23,Lubbock,Premium
 121,Dustin Thompson,dustin.thompson@example.com,28,Kansas City,Premium
 144,Dianne White,dianne.white@example.com,22,Cincinnati,Basic
-223,Scarlett Stewart,scarlett.stewart@example.com,,"Minneapolis",Basic
+"223,Scarlett Stewart,scarlett.stewart@example.com,,""Minneapolis"",Basic"
 39,Ronald Jackson,ronald.jackson@example.com,33,Raleigh,VIP
 72,Harold Wilson,harold.wilson@example.com,24,Gilbert,Basic
 138,Jamie Davis,jamie.davis@example.com,43,Riverside,Basic
@@ -36,7 +36,7 @@ customer_id,name,email,age,city,subscription_type
 155,Nicolas Thomas,nicolas.thomas@example.com,45,Reno,VIP
 66,Claudia White,claudia.white@example.com,23,Irvine,Basic
 211,Mia Nelson,mia.nelson@example.com,31,Milwaukee,Basic
-255,Maya Wells,maya.wells@example.com,,"Glendale",VIP
+"255,Maya Wells,maya.wells@example.com,,""Glendale"",VIP"
 142,Alfredo Thomas,alfredo.thomas@example.com,29,Saint Paul,Basic
 19,Edward Rodriguez,edward.rodriguez@example.com,43,Denver,VIP
 161,Elsa Garcia,elsa.garcia@example.com,40,Irving,Premium
@@ -55,7 +55,7 @@ customer_id,name,email,age,city,subscription_type
 184,Chase Mccarthy,chase.mccarthy@example.com,52,Grand Rapids,Basic
 244,Julian Jenkins,julian.jenkins@example.com,41,Newark,Basic
 40,Lisa White,lisa.white@example.com,24,Omaha,Basic
-238,Christian Howard,christian.howard@example.com,,"Henderson",Basic
+"238,Christian Howard,christian.howard@example.com,,""Henderson"",Basic"
 248,Gabriel Price,gabriel.price@example.com,38,Madison,Premium
 201,Olivia Moore,,36,Portland,Basic
 185,Damon Fletcher,damon.fletcher@example.com,31,Salt Lake City,Premium
@@ -66,7 +66,7 @@ customer_id,name,email,age,city,subscription_type
 203,Sophia Green,sophia.green@example.com,29,,VIP
 26,Shirley Jackson,shirley.jackson@example.com,34,Portland,Basic
 104,Rhonda Jackson,rhonda.jackson@example.com,34,Overland Park,Basic
-230,Ryan Bell,ryan.bell@example.com,,"Aurora",Premium
+"230,Ryan Bell,ryan.bell@example.com,,""Aurora"",Premium"
 195,Ernesto Rush,ernesto.rush@example.com,35,Salem,VIP
 89,Oscar Anderson,oscar.anderson@example.com,51,Fontana,Premium
 62,Evelyn Martinez,evelyn.martinez@example.com,34,Cincinnati,Basic
@@ -122,7 +122,7 @@ customer_id,name,email,age,city,subscription_type
 63,Ricky Anderson,ricky.anderson@example.com,29,Anchorage,VIP
 205,Emma Wright,emma.wright@example.com,25,Austin,Basic
 134,Myrtle Thompson,myrtle.thompson@example.com,28,Aurora,Basic
-209,Isabella Adams,isabella.adams@example.com,,"Boston",Premium
+"209,Isabella Adams,isabella.adams@example.com,,""Boston"",Premium"
 256,Lincoln Chapman,lincoln.chapman@example.com,,North Las Vegas,Basic
 17,Daniel Thompson,daniel.thompson@example.com,39,San Francisco,Premium
 34,Jean Davis,jean.davis@example.com,44,Kansas City,Basic
@@ -141,7 +141,7 @@ customer_id,name,email,age,city,subscription_type
 218,Matthew Campbell,matthew.campbell@example.com,35,Raleigh,Premium
 125,Gerard Davis,gerard.davis@example.com,44,Miami,Premium
 179,Benito Warren,benito.warren@example.com,39,Mobile,VIP
-247,Skylar Long,skylar.long@example.com,,"Laredo",Basic
+"247,Skylar Long,skylar.long@example.com,,""Laredo"",Basic"
 130,Shelly Jackson,shelly.jackson@example.com,34,Wichita,Basic
 80,Irene Harris,irene.harris@example.com,42,Fremont,Basic
 261,Naomi Freeman,,39,San Bernardino,VIP
@@ -163,9 +163,9 @@ customer_id,name,email,age,city,subscription_type
 219,Emily Parker,emily.parker@example.com,,Omaha,VIP
 96,Rosa Garcia,rosa.garcia@example.com,47,Sioux Falls,Basic
 175,Chadwick Chavez,chadwick.chavez@example.com,36,Pomona,VIP
-226,Owen Rogers,owen.rogers@example.com,,"Arlington",Basic
-217,Madison Phillips,madison.phillips@example.com,,"Atlanta",Basic
-258,Wyatt Murray,wyatt.murray@example.com,,"Fremont",VIP
+"226,Owen Rogers,owen.rogers@example.com,,""Arlington"",Basic"
+"217,Madison Phillips,madison.phillips@example.com,,""Atlanta"",Basic"
+"258,Wyatt Murray,wyatt.murray@example.com,,""Fremont"",VIP"
 33,Gregory Wilson,gregory.wilson@example.com,26,Long Beach,Premium
 88,Erica Martinez,erica.martinez@example.com,24,Modesto,Basic
 23,Roy Martinez,roy.martinez@example.com,36,Baltimore,VIP
@@ -179,7 +179,7 @@ customer_id,name,email,age,city,subscription_type
 137,Ervin Wilson,ervin.wilson@example.com,25,Santa Ana,Premium
 91,Franklin Jackson,franklin.jackson@example.com,35,Oxnard,VIP
 120,Erma Martin,erma.martin@example.com,33,Columbus,Basic
-206,Jackson Lopez,jackson.lopez@example.com,,"Charlotte",Premium
+"206,Jackson Lopez,jackson.lopez@example.com,,""Charlotte"",Premium"
 38,Judy Thomas,judy.thomas@example.com,46,Virginia Beach,Basic
 187,Dave Conrad,dave.conrad@example.com,40,Amarillo,VIP
 200,Gregorio Byrd,gregorio.byrd@example.com,47,Augusta,Basic
@@ -187,8 +187,8 @@ customer_id,name,email,age,city,subscription_type
 207,Ava Hall,ava.hall@example.com,33,Memphis,VIP
 100,Grace Garcia,grace.garcia@example.com,30,Shreveport,Basic
 67,Dean Harris,dean.harris@example.com,48,Newark,VIP
-267,Aria Blair,aria.blair@example.com,,"Fontana",VIP
-253,Ellie Hayes,ellie.hayes@example.com,,"Lubbock",Basic
+"267,Aria Blair,aria.blair@example.com,,""Fontana"",VIP"
+"253,Ellie Hayes,ellie.hayes@example.com,,""Lubbock"",Basic"
 46,Janice Wilson,janice.wilson@example.com,31,Wichita,Basic
 146,Sherri Martin,sherri.martin@example.com,33,Plano,Basic
 127,Lonnie Martinez,lonnie.martinez@example.com,39,Minneapolis,VIP
@@ -200,14 +200,14 @@ customer_id,name,email,age,city,subscription_type
 2,Alice Johnson,alice.johnson@example.com,25,Los Angeles,Basic
 92,Kara White,kara.white@example.com,22,Moreno Valley,Basic
 42,Sandra Martin,sandra.martin@example.com,29,Oakland,Basic
-263,Samantha Jordan,samantha.jordan@example.com,,"Spokane",Premium
-212,Ethan Carter,ethan.carter@example.com,,"Albuquerque",Premium
+"263,Samantha Jordan,samantha.jordan@example.com,,""Spokane"",Premium"
+"212,Ethan Carter,ethan.carter@example.com,,""Albuquerque"",Premium"
 85,Clifford Wilson,clifford.wilson@example.com,25,Spokane,Premium
 35,Gary Garcia,gary.garcia@example.com,30,Mesa,VIP
 110,Francis Rodriguez,francis.rodriguez@example.com,37,Worcester,Basic
 61,Nathan Garcia,nathan.garcia@example.com,50,Henderson,Premium
 115,Tracey Anderson,tracey.anderson@example.com,51,Alexandria,VIP
-242,Hunter Barnes,hunter.barnes@example.com,,"Orlando",Premium
+"242,Hunter Barnes,hunter.barnes@example.com,,""Orlando"",Premium"
 272,Kayla Marsh,kayla.marsh@example.com,30,Columbus,Premium
 107,Kent Martin,kent.martin@example.com,31,Providence,VIP
 51,Jesse Thomas,jesse.thomas@example.com,51,Aurora,VIP
@@ -221,7 +221,7 @@ customer_id,name,email,age,city,subscription_type
 116,Sergio Thomas,sergio.thomas@example.com,29,Corpus Christi,Basic
 8,Barbara Rodriguez,barbara.rodriguez@example.com,29,San Diego,Basic
 148,Jodi Garcia,jodi.garcia@example.com,47,Irvine,Basic
-271,Nicholas Newton,nicholas.newton@example.com,,"Pomona",Basic
+"271,Nicholas Newton,nicholas.newton@example.com,,""Pomona"",Basic"
 191,Efrain Carrillo,efrain.carrillo@example.com,32,Brownsville,VIP
 37,Larry Anderson,larry.anderson@example.com,27,Colorado Springs,Premium
 75,Walter Martinez,walter.martinez@example.com,26,Lubbock,VIP
@@ -270,7 +270,7 @@ customer_id,name,email,age,city,subscription_type
 97,Curtis Rodriguez,curtis.rodriguez@example.com,36,Mobile,Premium
 83,Mario Garcia,mario.garcia@example.com,49,San Bernardino,VIP
 77,Carlos Thomas,carlos.thomas@example.com,30,Glendale,Premium
-258,Wyatt Murray,wyatt.murray@example.com,,"Fremont",VIP
+"258,Wyatt Murray,wyatt.murray@example.com,,""Fremont"",VIP"
 106,Loretta Harris,loretta.harris@example.com,52,Tallahassee,Basic
 78,Julie Jackson,julie.jackson@example.com,38,North Las Vegas,Basic
 87,Max Garcia,max.garcia@example.com,32,Des Moines,VIP
